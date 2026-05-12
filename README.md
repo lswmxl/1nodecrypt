@@ -7,7 +7,7 @@
 ### 一键部署到 Cloudflare Workers
 
 点击下方按钮即可一键部署到 Cloudflare Workers：
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button?projectName=NodeCrypt)](https://deploy.workers.cloudflare.com/?url=https://github.com/shuaiplus/nodecrypt)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/lswmxl/1nodecrypt)
 
 - 构建命令：npm run build
 - 部署命令：npm run deploy
